@@ -1,5 +1,5 @@
-# My-Paper-Review
-The paper review repository about my interests.
+# Multi-Robot-Exploration-Paper-Review
+The paper review repository about Multi Robot Explortaion.
 
 ## Multi-Robot Exploration
 - Multi-robot SLAM: An Overview and Quantitative Evaluation of MRGS ROS Framework for MR-SLAM (RiTA 2019)
