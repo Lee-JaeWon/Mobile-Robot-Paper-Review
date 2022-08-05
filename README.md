@@ -8,3 +8,7 @@ The paper review repository about Multi Robot Explortaion, Multi Robot System an
   - [Paper Review](https://lee-jaewon.github.io/multi_robot/Coordinated_MRE/) / [Original Paper Link](https://ieeexplore.ieee.org/document/1435481)
 - SMMR-Explore: SubMap-based Multi-Robot Exploration System with Multi-robot Multi-target Potential Field Exploration Method (ICRA 2021) - (Working Now)
   - [Paper Review](https://lee-jaewon.github.io/multi_robot/SMMR_Explore/) / [Original Paper Link](https://ieeexplore.ieee.org/document/9561328)
+
+## Mobile-Robot Collision Avoidance and Path Planning
+- Nguyen, H.T., & Le, H.X. (2016). Path planning and Obstacle avoidance approaches for Mobile robot. ArXiv, abs/1609.01935.
+  - [Paper Review](https://therapeutic-jasmine-4d1.notion.site/Hoc-Nguyen-Le-Xuan-Hai-2016-Path-planning-and-Obstacle-avoidance-approaches-for-Mobile-robot-52fac7a472d646b2b49fc4cb7f86e046) / [Original Paper Link](https://arxiv.org/abs/1609.01935)
