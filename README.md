@@ -1,5 +1,5 @@
 # My-Interests-Paper-Review
-The paper review repository about Multi Robot Explortaion, Multi Robot System and Multi Robot SLAM or My Interests.
+Repository of my own paper review about Multi Robot Explortaion, Multi Robot System and Multi Robot SLAM or My Interests.
 
 ## Multi-Robot Exploration
 - Multi-robot SLAM: An Overview and Quantitative Evaluation of MRGS ROS Framework for MR-SLAM (RiTA 2019)
